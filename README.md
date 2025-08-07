@@ -12,6 +12,7 @@
 **Задание полностью выполнено.**
 
 - Branch 1: [https://github.com/AlexH73/git_homework_03/tree/content_feature](hhttps://github.com/AlexH73/git_homework_03/tree/content_feature)
+
 - Branch 2: [https://github.com/AlexH73/git_homework_03/tree/style_feature](https://github.com/AlexH73/git_homework_03/tree/style_feature)
 
 - Pull Request 1: [https://github.com/AlexH73/git_homework_03/pull/1](https://github.com/AlexH73/git_homework_03/pull/1)
